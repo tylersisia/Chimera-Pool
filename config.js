@@ -1,5 +1,5 @@
 
-var api = '54.172.240.25:8117'
+var api = 'http://54.172.240.25:8117'
 
 var api_blockexplorer = 'http://54.172.240.25:11245'
 
