@@ -1,9 +1,9 @@
 
-var api = 'http://54.172.240.25:8117'
+var api = 'http://tkts.pdss2access.com:8117'
 
 var api_blockexplorer = 'http://54.172.240.25:11245'
 
-var poolHost = '54.172.240.25'
+var poolHost = 'http://tkts.pdss2access.com'
 
 var irc = 'irc.freenode.net/#poolhost'
 
