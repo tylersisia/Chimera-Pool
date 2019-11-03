@@ -17,7 +17,7 @@ var blockchainExplorer = 'http://chainradar.com/{symbol}/block/{id}'
 
 var transactionExplorer = 'http://chainradar.com/{symbol}/transaction/{id}'
 
-var themeCss = 'themes/motherboard-dark-theme.css'
+var themeCss = 'themes/default-theme.css'
 
 var networkStat = {
 'cmra': [
