@@ -20,8 +20,8 @@ var transactionExplorer = 'http://chainradar.com/{symbol}/transaction/{id}'
 var themeCss = 'themes/ease-way-light-theme.css'
 
 var networkStat = {
-'cmra': [
-['bcn.mypool.online', 'http://bcn.mypool.online:8084'],
-['democats.org', 'http://pool.democats.org:7603']
+'tkts': [
+['pool.ticketszones.com', 'http://node.ticketszones.com:8117'],
+['tkts.pdss2access.com', 'http://tkts.pdss2access.com:8117']
 ]
 }
